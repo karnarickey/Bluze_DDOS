@@ -29,4 +29,8 @@ A Python-based GUI tool that performs Bluetooth Denial-of-Service (DoS) attacks 
 ### 🔧 Install Dependencies:
 ```bash
 sudo apt update
+gitclone https://github.com/karnarickey/Bluze_DDOS.git
+cd Bluze_DDOS
 sudo apt install bluez l2ping python3-tk
+python3 bluetooth.py
+
