@@ -23,7 +23,7 @@ This project leverages the power of `l2ping` flood attacks and Python's multithr
 
 ## 🧰 Requirements
 
-- Python 3.x  
+- Python3
 - Linux OS (Ubuntu, Kali, Parrot OS)  
 - Bluetooth adapter (internal or USB)  
 - BlueZ stack (`l2ping`, `hcitool`)
@@ -35,44 +35,37 @@ git clone https://github.com/karnarickey/Bluze_DDOS.git
 cd Bluze_DDOS
 sudo apt install bluez l2ping python3-tk
 python3 bluetooth.py
-_ _ _
-🚀 How It Works
+```
+## 🚀How It Works
 Launch the tool (GUI auto-opens)
-
 Scan or auto-scan for Bluetooth devices
-
 Select target device (MAC + Name)
-
 Set packet size & thread count
-
 Press "Start Attack" and monitor live logs
 
-⚠️ Legal Notice
+## ⚠️Legal Notice
 This tool is intended strictly for educational, ethical, and authorized penetration testing only.
 Unauthorized use on other people's devices is illegal.
 You are solely responsible for how you use this tool.
 
-💡 Project By
-👨‍💻 Hacker Boss
+## 💡Project By
+👨‍💻Saksham karn
 Ethical Hacker | Security Learner | Creator of Chaos for a Cause
-[GitHub Profile Link] (add your profile here)
-📅 Created: July 2025
+## 📅 Created: July 2025
 
-💭 Future Upgrades
- Attack timer with countdown
+## 💭 Future Upgrades
+Attack timer with countdown
+Save logs to file
+Kill switch for attack threads
+Bluetooth MAC sniffer (Windows edition)
+Dark mode GUI
 
- Save logs to file
-
- Kill switch for attack threads
-
- Bluetooth MAC sniffer (Windows edition)
-
- Dark mode GUI
-
-📩 Want to Contribute?
+## 📩 Want to Contribute?
 Pull requests are welcome! Just keep it legal, lean, and clean.
 Open an issue if you’ve got ideas, bugs, or want to collab.
 
-🙏 Thanks for Scanning By
+## 🙏 Thanks for Scanning By
 If you learned something or smiled at the power of GUI-based Bluetooth madness, give this repo a ⭐
 Stay sharp. Stay ethical. Hack with purpose. 🧠💻
+
+
